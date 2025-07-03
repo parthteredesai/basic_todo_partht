@@ -3,6 +3,11 @@ Sure!📝 Built a responsive **To-Do List app** using HTML, CSS, and JavaScript.
 Sure! Here’s a **short, polished LinkedIn post** you can use to share about building your to-do app:
 
 ---
+HAVE A LOOK TO LIVE DEMO HERE
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff37c13b-50be-4e5e-81db-566478a66a4d/deploy-status)](https://app.netlify.com/projects/todobypartht/deploys)
+
+ANOTHER LINK:
+https://todobypartht.netlify.app/
 
 🎯 **Just built my own simple To-Do List web app!**
 
