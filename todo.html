@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ToDO by ParthT</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="projstyle.css" />
+    <link rel="icon" href="./assets/logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="todo.css" />
+  </head>
+  <body>
+    <div class="page">
+      <div class="container">
+        <h1>📝 My To-Do App</h1>
+        <div class="todo-input">
+          <input type="text" id="taskInput" placeholder="Enter new task..." />
+          <button id="addTaskBtn">Add Task</button>
+        </div>
+        <h5>
+          coded&nbsp; <i class="fa-solid fa-code"></i> &nbsp;by Parth
+          Teredesai&nbsp;
+          <i class="fa-solid fa-heart" style="color: rgb(248, 32, 194)"></i>
+        </h5>
+      </div>
+      <div class="main">
+        <h1>List Items</h1>
+        <ul id="taskList"></ul>
+      </div>
+    </div>
+    <script src="todo.js"></script>
+  </body>
+</html>
