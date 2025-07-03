@@ -144,7 +144,7 @@ h5 {
   background: #626161;
   color: white;
 }
-@media (max-width: 600px) {
+@media (max-width: 850px) {
   .task-item {
     padding: 10px;
     margin-bottom: 8px;
