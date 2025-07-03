@@ -19,5 +19,4 @@ This project was a great exercise in:
 💡 Writing clean, modular JavaScript
 💡 Styling responsive layouts for desktop and mobile
 
-It’s amazing how much you can build with just the basics of web development.
 ---
