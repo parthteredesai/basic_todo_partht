@@ -26,6 +26,6 @@ This project was a great exercise in:
 💡 Writing clean, modular JavaScript
 💡 Styling responsive layouts for desktop and mobile
 
-# learning to use git via terminal
+learning to use git via terminal
 
 ---
